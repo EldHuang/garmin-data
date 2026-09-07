@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# SEESSION TOKEN
+garmin_session_token.json
+
 # Distribution / packaging
 .Python
 build/
