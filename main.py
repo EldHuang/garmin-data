@@ -16,9 +16,5 @@ def main():
     graphs.generate_all()
     exporter.export()
 
-# if __name__ == "__main__":
-#     main()
-
-manager = DataManager()
-data = manager.main()
-print(data)
+if __name__ == "__main__":
+    main()
